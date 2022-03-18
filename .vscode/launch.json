@@ -10,7 +10,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/src/bin/Debug/net6.0/StravaConnector.dll",
+            "program": "${workspaceFolder}/src/StravaConnector/bin/Debug/net6.0/StravaConnector.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "stopAtEntry": false,

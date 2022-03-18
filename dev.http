@@ -1,1 +1,4 @@
-GET https://localhost:7277  HTTP/1.1
+# GET https://localhost:7277  HTTP/1.1
+
+GET https://www.strava.com/api/v3/athlete/activities header "Authorization: Bearer 4898e66d48ffc876c7cb046bfb5a2530aebb355d"
+
