@@ -11,6 +11,7 @@ Also set the basemap to Pride each time.
 * https://www.youtube.com/watch?v=sgscChKfGyg&ab_channel=franchyze923
 
 TODO:
+1. Check if .NET Standard 2.0 is good to be used still 
 1. Add controller test file
 1. Add appsettings with refreshToken secret
 1. Build GET activities query with manual refresh token update
